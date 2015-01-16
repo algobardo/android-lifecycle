@@ -1,0 +1,1 @@
+A cone of the original android lifecycle demo app
